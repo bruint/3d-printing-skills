@@ -1,0 +1,4 @@
+interface:
+  display_name: "Print Project Organization"
+  short_description: "Organize CAD files, print revisions, and Bambu plates"
+  default_prompt: "Use $print-project-organization to organize this build’s source, printable files, revisions, and Bambu Studio plates."

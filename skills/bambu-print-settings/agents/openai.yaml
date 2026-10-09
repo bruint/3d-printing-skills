@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bambu Print Settings"
+  short_description: "Apply Bambu print best practices to each build"
+  default_prompt: "Use $bambu-print-settings while designing this printable part to choose its orientation and Bambu Studio settings, and record the print setup with the build."

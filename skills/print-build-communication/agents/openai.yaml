@@ -1,0 +1,4 @@
+interface:
+  display_name: "Print Build Communication"
+  short_description: "Discuss builds through labelled images and close-ups"
+  default_prompt: "Use $print-build-communication to show labelled views of this build so we can discuss specific parts and features."
